@@ -1,7 +1,8 @@
 # leetcode_257
 binary_tree_paths
 
-  """ Construct below tree
+ Construct below tree
+            
               1
             /   \
            /     \
@@ -10,7 +11,7 @@ binary_tree_paths
         4   5   6   7
                /     \
               8       9
-    """
+ 
 
     root = Node(1)
     root.left = Node(2)
